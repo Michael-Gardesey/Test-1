@@ -1,0 +1,18 @@
+[
+  {
+    "id": "jane-doe-techcorp-2024",
+    "name": "Jane Doe",
+    "title": "Lead Data Scientist, TechCorp",
+    "testimonial": "Michael is an outstanding collaborator with a sharp mind for solving complex problems.",
+    "avatar": "/images/testimonials/jane.jpg",
+    "date": "2024-04-15"
+  },
+  {
+    "id": "john-smith-prof-2023",
+    "name": "John Smith",
+    "title": "Professor of Computer Science",
+    "testimonial": "His research contributions are both innovative and practical.",
+    "avatar": "/images/testimonials/john.jpg",
+    "date": "2023-12-01"
+  }
+]
