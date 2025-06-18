@@ -1,0 +1,18 @@
+[
+  {
+    "id": "openai-senior-ai-engineer-2025",
+    "date": "2025-01-01",
+    "title": "Senior AI Engineer",
+    "description": "Joined OpenAI Research as a Senior AI Engineer.",
+    "type": "career",
+    "icon": "💼"
+  },
+  {
+    "id": "masters-tech-university-2023",
+    "date": "2023-09-01",
+    "title": "Masters in Computer Science",
+    "description": "Graduated from Tech University with honors.",
+    "type": "education",
+    "icon": "🎓"
+  }
+]
