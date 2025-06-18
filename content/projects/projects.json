@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ai-research-platform",
+    "slug": "ai-research-platform",
+    "title": "AI Research Platform",
+    "description": "A collaborative platform for AI research and experimentation.",
+    "image": "/images/ai-platform.jpg",
+    "tags": ["AI", "Collaboration", "Platform"],
+    "link": "https://ai-platform.example.com",
+    "github": "https://github.com/Michael-Gardesey/ai-research-platform",
+    "demo": "https://ai-platform.example.com/demo",
+    "status": "active",
+    "date": "2024-03-10"
+  },
+  {
+    "id": "data-visualizer",
+    "slug": "data-visualizer",
+    "title": "Data Visualizer",
+    "description": "A tool for interactive data visualization.",
+    "image": "/images/data-visualizer.jpg",
+    "tags": ["Visualization", "Data", "Charts"],
+    "link": "https://data-visualizer.example.com",
+    "github": "https://github.com/Michael-Gardesey/data-visualizer",
+    "demo": "",
+    "status": "archived",
+    "date": "2023-11-01"
+  }
+]
