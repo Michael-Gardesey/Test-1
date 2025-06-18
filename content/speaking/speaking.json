@@ -1,0 +1,18 @@
+[
+  {
+    "id": "modern-ai-ethics-20240510",
+    "title": "Modern AI Ethics",
+    "description": "A talk on the importance of ethics in modern artificial intelligence.",
+    "event": "AI Future Conference",
+    "location": "New York, NY",
+    "date": "2024-05-10"
+  },
+  {
+    "id": "oss-collaboration-20231117",
+    "title": "Open Source Collaboration",
+    "description": "Seminar on building successful open source communities.",
+    "event": "Open Source Summit",
+    "location": "San Francisco, CA",
+    "date": "2023-11-17"
+  }
+]
